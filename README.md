@@ -25,7 +25,7 @@ need the following supplies, which you should receive from the instructors:
 
 Plug the A-end of your USB into your computer and your B-end into the Arduino to turn on the Arduino. (Don't plug the A-end into anything other than a computer.) Your Arduino should power on.  Now, you want to choose a resistor and wire up your system like shown here
 
-![wire configuration for step 1](https://raw.githubusercontent.com/yale-mgt-656/arduino-led-activity/master/images/one-led-via-5v_bb.png)
+![wire configuration for step 1](./images/one-led-via-5v_bb.png)
 ![wire configuration for step 1](https://learn.adafruit.com/system/assets/assets/000/002/170/medium800/learn_arduino_overview.jpg?1396780130)
 
 The LED should light up.
@@ -98,7 +98,7 @@ Now, what should you see on the board? You should see a constant red LED if you 
 
 In order to control the LED, we'll want to move the wire from the 5v pin to pin 13. Your writing should look roughly as follows
 
-![wire configuration for step 2](https://raw.githubusercontent.com/yale-mgt-656/arduino-led-activity/master/images/one-led-via-13pin_bb.png)
+![wire configuration for step 2](./images/one-led-via-13pin_bb.png)
 
 ## Step 3: play around
 
